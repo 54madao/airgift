@@ -1,0 +1,22 @@
+server {
+    listen 80;
+    server_name airgiftit.techcliks.com;
+    root /vagrant/server/cashvuehome/public/;
+    index index.php index.html index.htm; 
+    sendfile off;
+
+    access_log /var/log/nginx/cashvue.com-access.log;
+    error_log  /var/log/nginx/cashvue.com-error.log error;
+
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { access_log off; log_not_found off; }
+    
+    location / {
+        try_files $uri $uri.html $uri/ /index.html =404;
+    }
+
+    ## Don't allow access to .ht files ##
+    location ~ /\.ht {
+         deny all;
+    }
+}
