@@ -1,7 +1,7 @@
 server {
     listen 80;
     server_name airgiftit.techcliks.com www.airgiftit.techcliks.com;
-    root /home/dev/airgift/public/;
+    root /home/dev/airgiftit/public/;
 
     index index.html index.php;  ## Set the index for site to use ##
 

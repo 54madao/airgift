@@ -1,7 +1,7 @@
 server {
     listen 80;
     server_name airgiftit.techcliks.dev www.airgiftit.techcliks.dev;
-    root /vagrant/airgift/public/;
+    root /vagrant/airgiftit/public/;
 
     index index.html index.php;  ## Set the index for site to use ##
 
