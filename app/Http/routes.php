@@ -12,5 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('airgiftit');
 });
+
+Route::get('/handle_login.php', 'LoginController@login');

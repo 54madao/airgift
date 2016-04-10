@@ -6,8 +6,8 @@ server {
     index index.html index.php;  ## Set the index for site to use ##
 
     charset utf-8; ## Set the charset ##
-    access_log /var/log/nginx/airgiftit.dev-access.log;
-    error_log  /var/log/nginx/airgiftit.dev-error.log error;
+    access_log /var/log/nginx/airgiftit.com-access.log;
+    error_log  /var/log/nginx/airgiftit.com-error.log error;
 
     location = /favicon.ico { log_not_found off; access_log off; }
     location = /robots.txt  { access_log off; log_not_found off; }
