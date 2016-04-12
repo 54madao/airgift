@@ -5,7 +5,7 @@ server {
 }
 
 server {
-    listen 433 ssl;
+    listen 443 ssl;
     server_name airgiftit.techcliks.com www.airgiftit.techcliks.com;
     root /home/dev/airgiftit/public/;
 

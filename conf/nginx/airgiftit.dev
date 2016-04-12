@@ -6,8 +6,7 @@ server {
 
 
 server {
-    listen 80;
-    listen 433 ssl;
+    listen 443 ssl;
     server_name airgiftit.techcliks.dev www.airgiftit.techcliks.dev;
     root /vagrant/airgiftit/public/;
 
