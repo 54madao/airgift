@@ -27,7 +27,7 @@
 
 	  document.getElementById('LoginWithAmazon').onclick = function() {
 	    options = { scope : 'profile' };
-	    amazon.Login.authorize(options, 'https://http://airgiftit.techcliks.com/handle_login.php');
+	    amazon.Login.authorize(options, 'https://airgiftit.techcliks.com/handle_login.php');
 	    return false;
 	  };
 
