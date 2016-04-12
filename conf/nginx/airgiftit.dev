@@ -5,6 +5,9 @@ server {
 
     index index.html index.php;  ## Set the index for site to use ##
 
+    ssl_certificate /home/dev/airgiftit/conf/Certs/nginx.crt;
+    ssl_certificate_key /home/dev/airgiftit/conf/Certs/nginx.key;
+
     charset utf-8; ## Set the charset ##
     access_log /var/log/nginx/airgiftit.dev-access.log;
     error_log  /var/log/nginx/airgiftit.dev-error.log error;
