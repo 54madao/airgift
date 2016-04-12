@@ -1,12 +1,19 @@
 server {
     listen 80;
     server_name airgiftit.techcliks.dev www.airgiftit.techcliks.dev;
+    return 301 https://$host$request_uri;
+}
+
+
+server {
+    listen 433 ssl;
+    server_name airgiftit.techcliks.dev www.airgiftit.techcliks.dev;
     root /vagrant/airgiftit/public/;
 
     index index.html index.php;  ## Set the index for site to use ##
 
-    ssl_certificate /home/dev/airgiftit/conf/Certs/nginx.crt;
-    ssl_certificate_key /home/dev/airgiftit/conf/Certs/nginx.key;
+    ssl_certificate /vagrant/airgiftit/conf/dev/Certs/nginx.crt;
+    ssl_certificate_key /vagrant/airgiftit/conf/dev/Certs/nginx.key;
 
     charset utf-8; ## Set the charset ##
     access_log /var/log/nginx/airgiftit.dev-access.log;
