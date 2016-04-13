@@ -8,7 +8,7 @@
 	<script type="text/javascript">
 
 	  window.onAmazonLoginReady = function() {
-	    amazon.Login.setClientId('amzn1.application.4db3b6c0559b401ba16cd3e9aa9e2ffc');
+	    amazon.Login.setClientId('amzn1.application-oa2-client.2950611bb1f048b9861c7c230dd2b142');
 	  };
 	  (function(d) {
 	    var a = d.createElement('script'); a.type = 'text/javascript';
@@ -30,6 +30,25 @@
 	    amazon.Login.authorize(options, 'https://airgiftit.techcliks.com/handle_login.php');
 	    return false;
 	  };
+
+	  // document.getElementById('LoginWithAmazon').onclick = function() {
+   //          setTimeout(window.doLogin, 1);
+   //          return false;
+   //          //amazon.Login.authorize(options, 'https://airgiftit.techcliks.com/handle_login.php');
+   //    };
+   //    window.doLogin = function() {
+   //        options = {};
+   //        options.scope = 'profile';
+   //        amazon.Login.authorize(options, function(response) {
+   //          if ( response.error ) {
+   //              alert('oauth error ' + response.error);
+   //              return;
+   //          }
+   //          amazon.Login.retrieveProfile(response.access_token, function(response) {
+   //            alert(response);
+   //          });
+   //       });
+   //    };
 
 	</script>
 	<a id="Logout">Logout</a>
