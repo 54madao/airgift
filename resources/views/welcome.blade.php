@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">Laravel 5</div>
+                <h1>Test Sample for Privacy Policy</h1>
             </div>
         </div>
     </body>
