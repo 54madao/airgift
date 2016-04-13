@@ -1,0 +1,47 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/wenbog/cashvue/airgiftit"
+		}
+	],
+	"settings":
+	{
+		"rsync_ssh":
+		{
+			"excludes":
+			[
+				".git*",
+				"_build",
+				"blib",
+				"Build"
+			],
+			"options":
+			[
+				"--delete"
+			],
+			"remotes":
+			{
+				"/Users/wenbog/cashvue/airgiftit":
+				[
+					{
+						"enabled": 1,
+						"excludes":
+						[
+						],
+						"options":
+						[
+						],
+						"remote_host": "162.243.138.78",
+						"remote_path": "/home/dev/airgiftit",
+						"remote_port": 22,
+						"remote_post_command": "",
+						"remote_pre_command": "",
+						"remote_user": "dev"
+					}
+				]
+			},
+			"sync_on_save": true
+		}
+	}
+}

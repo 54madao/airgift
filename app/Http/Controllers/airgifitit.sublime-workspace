@@ -1,0 +1,1127 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"b",
+				"body	Tag"
+			],
+			[
+				"close",
+				"closeAlert"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"rec",
+				"recWarn"
+			],
+			[
+				"da",
+				"Date"
+			],
+			[
+				"wa",
+				"warn"
+			],
+			[
+				"cate",
+				"categoryTree"
+			],
+			[
+				"la",
+				"lastReconciliationDate"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"ca",
+				"CategoryTree"
+			],
+			[
+				"tr",
+				"translatedInput"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"get",
+				"getDataAtCell"
+			],
+			[
+				"s",
+				"successfulEntry"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"coun",
+				"countRows"
+			],
+			[
+				"ge",
+				"getCellMeta"
+			],
+			[
+				"v",
+				"valid"
+			],
+			[
+				"isv",
+				"isValidFormat"
+			],
+			[
+				"is",
+				"isValidDate"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"set",
+				"setDataAtCell"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"c",
+				"callback"
+			],
+			[
+				"cla",
+				"className"
+			],
+			[
+				"ce",
+				"cellProperties"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"p",
+				"prop"
+			],
+			[
+				"so",
+				"scope"
+			],
+			[
+				"cl",
+				"Clears"
+			],
+			[
+				"rain",
+				"raindrop"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"sy",
+				"list-style"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"m",
+				"metadata"
+			],
+			[
+				"no",
+				"nodesAndLinks"
+			],
+			[
+				"cas",
+				"cashout"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"to",
+				"tooltip"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"of",
+				"offsetWidth"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"san",
+				"sanid"
+			],
+			[
+				"ad",
+				"add"
+			],
+			[
+				"me",
+				"mergedBlock"
+			],
+			[
+				"node",
+				"nodes"
+			],
+			[
+				"sou",
+				"source"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"sor",
+				"sortedCashin"
+			],
+			[
+				"n",
+				"nodes"
+			],
+			[
+				"noe",
+				"nodes"
+			],
+			[
+				"sank",
+				"sankey"
+			],
+			[
+				"le",
+				"level"
+			],
+			[
+				"nu",
+				"numLvl"
+			],
+			[
+				"nod",
+				"nodesByBreadth"
+			],
+			[
+				"building_po",
+				"building_postitions"
+			],
+			[
+				"co",
+				"codeVersions"
+			],
+			[
+				"doc",
+				"docChangeSample"
+			],
+			[
+				"code",
+				"codeChangeSample"
+			],
+			[
+				"ch",
+				"chldrnSanid"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"parent",
+				"parent_category_id"
+			],
+			[
+				"par",
+				"parentNode"
+			],
+			[
+				"sanke",
+				"sankeydata"
+			],
+			[
+				"pare",
+				"parent_category_id"
+			],
+			[
+				"cat",
+				"categoryTree"
+			],
+			[
+				"tre",
+				"treeIdMap"
+			],
+			[
+				"pru",
+				"prunedTree"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"sc",
+				"scrollTop"
+			],
+			[
+				"sh",
+				"showRelatedCode"
+			],
+			[
+				"z",
+				"ZoomOut"
+			],
+			[
+				"lin",
+				"linkDocObj"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"mou",
+				"mousedown"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"meh",
+				"methodName"
+			],
+			[
+				"mo",
+				"ModifiedMethods"
+			],
+			[
+				"De",
+				"DeletedMethods"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"max",
+				"maxLvl"
+			],
+			[
+				"min",
+				"minLvl"
+			],
+			[
+				"chl",
+				"chldrnNode"
+			],
+			[
+				"id",
+				"idpath"
+			],
+			[
+				"g",
+				"graphData"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"d",
+				"draw"
+			],
+			[
+				"link",
+				"links"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"bor",
+				"border-right-style"
+			],
+			[
+				"rel",
+				"relatedObj"
+			],
+			[
+				"Ba",
+				"background"
+			],
+			[
+				"stop",
+				"stopPropagation"
+			],
+			[
+				"sli",
+				"slider"
+			],
+			[
+				"version",
+				"versionNum"
+			],
+			[
+				"show",
+				"showDetail"
+			],
+			[
+				"bu",
+				"building_objects"
+			],
+			[
+				"o",
+				"object"
+			],
+			[
+				"css",
+				"css3dscene"
+			],
+			[
+				"lab",
+				"label_x"
+			],
+			[
+				"text",
+				"textContent"
+			],
+			[
+				"C",
+				"CASHVUE_ROOT"
+			],
+			[
+				"en",
+				"envloc"
+			],
+			[
+				"Ac",
+				"AccountStatus"
+			],
+			[
+				"js",
+				"jstree"
+			],
+			[
+				"data",
+				"data-toggle"
+			],
+			[
+				"col",
+				"collapse_list"
+			],
+			[
+				"st",
+				"stopImmediatePropagation"
+			],
+			[
+				"se",
+				"setSize"
+			],
+			[
+				"cs",
+				"css3dscene"
+			],
+			[
+				"or",
+				"originalHeight"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"N",
+				"NUM9"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"bl",
+				"block_width"
+			],
+			[
+				"te",
+				"text_scale"
+			],
+			[
+				"bord",
+				"block_border"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"posi",
+				"positions"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<?php\n\n/*\n|--------------------------------------------------------------------------\n| Application Routes\n|--------------------------------------------------------------------------\n|\n| Here is where you can register all of the routes for an application.\n| It's a breeze. Simply tell Laravel the URIs it should respond to\n| and give it the controller to calculhmac(clent, data)ll when that URI is requested.\n|\n*/\n\nRoute::get('/', function () {\n    return view('airgiftit');\n});\n\nRoute::get('/privacy-policy', function () {\n    return view('welcome');\n});\n\nRoute::get('/handle_login', 'UserController@login');",
+			"file": "/Users/wenbog/cashvue/airgiftit/app/Http/routes.php",
+			"file_size": 588,
+			"file_write_time": 131050502510000000,
+			"settings":
+			{
+				"buffer_size": 609,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "UserController.php",
+			"settings":
+			{
+				"buffer_size": 1411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/wenbog/cashvue/airgiftit/resources/views/airgiftit.blade.php",
+			"settings":
+			{
+				"buffer_size": 1947,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: r",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: R",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"ssh -q -T -o ConnectTimeout=10 -p 22 wenbog@my-server.my-domain.tld LANG=C which rsync",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/wenbog/cashvue/airgiftit",
+		"/Users/wenbog/cashvue/airgiftit/app/Http/Controllers",
+		"/Users/wenbog/cashvue/airgiftit/bootstrap/cache",
+		"/Users/wenbog/cashvue/airgiftit/conf/com",
+		"/Users/wenbog/cashvue/airgiftit/conf/com/Certs",
+		"/Users/wenbog/cashvue/airgiftit/conf/dev",
+		"/Users/wenbog/cashvue/airgiftit/conf/dev/Certs",
+		"/Users/wenbog/cashvue/airgiftit/conf/nginx",
+		"/Users/wenbog/cashvue/airgiftit/resources/views",
+		"/Users/wenbog/cashvue/server/cashvue/app/Commands",
+		"/Users/wenbog/cashvue/server/cashvue/app/Http",
+		"/Users/wenbog/cashvue/server/cashvue/app/Http/routes",
+		"/Users/wenbog/cashvue/server/cashvue/Cashvue",
+		"/Users/wenbog/cashvue/server/cashvue/Cashvue/Users",
+		"/Users/wenbog/cashvue/server/cashvue/conf/nginx",
+		"/Users/wenbog/cashvue/server/cashvuehome/app",
+		"/Users/wenbog/cashvue/server/cashvuehome/app/Http",
+		"/Users/wenbog/cashvue/server/cashvuehome/Cashvue",
+		"/Users/wenbog/cashvue/server/cashvuehome/Cashvue/Users",
+		"/Users/wenbog/cashvue/server/cashvuehome/conf/nginx",
+		"/Users/wenbog/cashvue/swboard/app",
+		"/Users/wenbog/cashvue/swboard/app/Http",
+		"/Users/wenbog/cashvue/swboard/conf/nginx",
+		"/Users/wenbog/cashvue/swboard/resources",
+		"/Users/wenbog/cashvue/swboard/resources/views",
+		"/Users/wenbog/TEditor/bootstrap-3.3.6",
+		"/Users/wenbog/TEditor/bootstrap-3.3.6/dist",
+		"/Users/wenbog/TEditor/bootstrap-3.3.6/dist/css",
+		"/Users/wenbog/TEditor/three.js-r75/editor"
+	],
+	"file_history":
+	[
+		"/Users/wenbog/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/wenbog/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/wenbog/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/Users/wenbog/cashvue/airgiftit/conf/nginx/airgiftit.dev",
+		"/Users/wenbog/cashvue/airgiftit/resources/views/welcome.blade.php",
+		"/Users/wenbog/cashvue/airgiftit/resources/views/airgiftit.blade.php",
+		"/Users/wenbog/cashvue/airgiftit/conf/nginx/airgiftit.com",
+		"/Users/wenbog/cashvue/server/cashvue/conf/nginx/cashvue_wildcard",
+		"/Users/wenbog/cashvue/airgiftit/conf/com/Certs/nginx.key",
+		"/Users/wenbog/cashvue/airgiftit/conf/dev/Certs/nginx.key",
+		"/Users/wenbog/cashvue/airgiftit/conf/dev/Certs/nginx.crt",
+		"/Users/wenbog/cashvue/airgiftit/conf/com/Certs/nginx.crt",
+		"/Users/wenbog/TEditor/index.html",
+		"/Users/wenbog/cashvue/swboard/app/Http/routes.php",
+		"/Users/wenbog/cashvue/swboard/resources/views/sample.blade.php",
+		"/Users/wenbog/TEditor/three.js-r75/editor/index.html",
+		"/Users/wenbog/TEditor/three.js-r75/editor/js/Viewport.js",
+		"/Users/wenbog/TEditor/three.js-r75/editor/js/Script.js",
+		"/Users/wenbog/TEditor/three.js-r75/editor/js/libs/signals.min.js",
+		"/Users/wenbog/TEditor/three.js-r75/editor/js/Editor.js",
+		"/Users/wenbog/cashvue/airgiftit/app/Http/Controllers/LoginController.php",
+		"/Users/wenbog/cashvue/airgiftit/app/Http/routes.php",
+		"/Users/wenbog/cashvue/swboard/conf/nginx/swb.dev",
+		"/Users/wenbog/cashvue/server/cashvuehome/app/Http/routes.php",
+		"/Users/wenbog/cashvue/airgiftit/resources/views/vendor/airgiftit.blade.php",
+		"/Users/wenbog/cashvue/airgiftit/config/app.php",
+		"/Users/wenbog/cashvue/airgiftit/conf/nginx/airgiftit",
+		"/Users/wenbog/cashvue/server/cashvuehome/conf/nginx/cashvue",
+		"/Users/wenbog/GitHub/FACTS-visualization/js/loader.js",
+		"/Users/wenbog/Downloads/download/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/multipleentryinput/EntryInputCtrl.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/singleentryinput/entryinput.tpl.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/multipleentryinput/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/singleentryinput/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/es6api/EntryService.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/es6api/Service.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/singleentryinput/singleentryinput.tpl.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/multipleentryinput/module.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/singleentryinput/module.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/multipleentryinput/multipleinput.tpl.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/singleentryinput/SingleEntryInputCtrl.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/multipleentryinput/Todo.md",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/multipleentryinput/multiinput.css",
+		"/Users/wenbog/.Trash/EntryInputCtrl.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/multipleentryinput/handsoninputDirective.js",
+		"/Users/wenbog/Downloads/¥∞ªß≤£¡ß”ÍµŒ±∆’Ê–ßπ˚/js/rainyday.js",
+		"/Users/wenbog/Downloads/欧米茄手表3.10/index1.html",
+		"/Users/wenbog/Library/Application Support/Sublime Text 3/Packages/User/SublimeServer.sublime-settings",
+		"/Users/wenbog/Downloads/¥∞ªß≤£¡ß”ÍµŒ±∆’Ê–ßπ˚/index1.html",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/test.html",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/content01.html",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/js/97zzw.js",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/js/lib.js",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/relaxpage.html",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/css/css.css",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/alike.css",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/images/left.gif",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/js/test.html",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/js/te's't",
+		"/Users/wenbog/Downloads/CKµÁ…ÃÕ¯’æ3.11/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/sankey.css",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/SanKeyChartData.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/SankeyChart.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/es6directives/timelinechartDirective.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/dashboardcashflow/cashflowviz.tpl.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashbalancechart/cashbalancechart.css",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/payeesummarychart/payeesumchart.css",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/timelinechart/timelinechart.css",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/dashboardcashflow/DashboardCashflowChartCtrl.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/dashboardcashflow/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/dashboardcashflow/module.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/draw.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/listener.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/loader.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/sankey.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/SankeyChartCtrl.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/ajax/codeChangeSample-100k.json",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/ajax/codeChangeSample-10k.json",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/ajax/codeChangeSample-1k.json",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/ajax/docChangeSample.json",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/ajax/codeVersions.json",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/es6api/CategorySummary.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/Todo.md",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/sankeyDirective.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/sankeynew.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/es6api/CategoryService.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/categorytreesummarychart/CategorySummaryChartCtrl.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/categorytreesummarychart/index.html",
+		"/Users/wenbog/cashvue/server/cashvue/Cashvue/Categories/CategoryValidator.php",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/module.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/vis.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/listener.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/loader.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/draw.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/es6api/CategoryTree.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/test/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/sankey.tpl.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/test/sankey.js",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/test/subcat.json",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/test/cat.json",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/categoriestable/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/reference/index.html",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/test/cat1.json",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/reference/sankey.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/js/controls/OrbitControls.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/js/renderers/CSS3DRenderer.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/js/controls/TrackballControls.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/jquery-ui-1.11.4/jquery-ui.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/src/core/Object3D.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/src/scenes/Scene.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/jQuery-ui-Slider-Pips-1.11.0/dist/jquery-ui-slider-pips.css",
+		"/Users/wenbog/cashvue/client/cashvuehtml5/app/cashflowsummarychart/reference/cat.json",
+		"/Users/wenbog/cashvue/server/cashvuehome/vendor/deployer/deployer/recipe/common.php",
+		"/Users/wenbog/cashvue/server/cashvuehome/vendor/deployer/deployer/recipe/laravel.php",
+		"/Users/wenbog/cashvue/server/cashvuehome/deploy/deploy.php",
+		"/Users/wenbog/cashvue/server/cashvuehome/ansible/todo.md",
+		"/Users/wenbog/cashvue/server/cashvue/crons/tenantEmailer.php",
+		"/Users/wenbog/cashvue/server/cashvue/vendor/vlucas/phpdotenv/src/Dotenv.php",
+		"/Users/wenbog/cashvue/server/cashvue/crons/tenantCreator.php",
+		"/Users/wenbog/cashvue/server/cashvuehome/database/seeds/ConstantsSeeder.php",
+		"/Users/wenbog/cashvue/server/cashvuehome/ansible/deployment.yml",
+		"/Users/wenbog/cashvue/server/cashvue/config/database.php",
+		"/Users/wenbog/cashvue/server/cashvuehome/composer.json",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/test2.html",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/jstree/dist/jstree.js",
+		"/Users/wenbog/GitHub/FACTS-visualization/3D/js/three/build/three.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/wenbog/cashvue/airgiftit/",
+			"/Users/wenbog/cashvue/client/cashvuehtml5/app/singleentryinput",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rsync_ssh",
+			"settings",
+			"sublime-project",
+			".sublime-project",
+			"bundle.js",
+			"datatablecontext",
+			"table",
+			"table\n",
+			"datatablecontext\n",
+			";\n",
+			"ui.bootstrap",
+			"']);",
+			"leftfixed",
+			"cursor",
+			"leftfixed",
+			"fixedtitle",
+			"control",
+			"spec-left",
+			"jqueryzoom",
+			"control",
+			"padding",
+			"console",
+			"Extraction and visualization of traceability relationships between documents and source code",
+			"recttooltip",
+			"expanded",
+			"meta",
+			"console",
+			"sankeyChartData",
+			"data",
+			"console",
+			"y",
+			"z",
+			"camera.position.y",
+			"camera",
+			"ZoomIn",
+			"onclick_color",
+			"showRelatedDocs",
+			"showRelatedCode",
+			"300",
+			"showRelation",
+			"        // sprite_objects[positions[i].id] = object;\n        // sprite_objects[positions[i].id] = object;\nshowRelation\n        // content.style.color = 'rgba(0,0,0,0.75)';\n        // content.style.textShadow = '0 0 10px rgba(0,255,255,0.95)';\n        // content.style.wordWrap = \"break-word\";\n        // element.appendChild( content );\n\n        // var object = new THREE.CSS3DSprite( element );",
+			"){\n",
+			"{\n",
+			"chldrnNode",
+			"CategorySummary",
+			"config",
+			"sinksRight",
+			"            \n",
+			"changes",
+			"button",
+			"console",
+			"split",
+			"circle",
+			"resolveCollisions",
+			" $",
+			"vagrant",
+			"($",
+			"envloc",
+			"currentHex",
+			"dispatchEvent",
+			"ocl",
+			"tab",
+			"ocl",
+			"currentHex",
+			"THREE.group",
+			"group",
+			"THREE.Group",
+			"z",
+			"THREE.CSS3DSprite",
+			"THREE.MOUSE.RIGHT",
+			"target",
+			"TweenLite",
+			"tween",
+			"camera",
+			"target",
+			"zoom",
+			"left",
+			"min",
+			"collapse_list",
+			"updateProjectionMatrix",
+			"list_right",
+			"\">...</",
+			"...\n",
+			"render",
+			"objects",
+			"overflow",
+			"unproject",
+			"CanvasRenderer",
+			"canvasrenderer",
+			"THREE.Ray",
+			"THREE.ray",
+			"raycast",
+			"                //group.position.y = 100;\n\n                //scene.add( group );\n\n                // line\n                for (var i = 0; i < 20; i++) {\n                    console.log(\"line\");\n                    var line_material = new THREE.LineBasicMaterial({\n                        color: 0x0000ff\n                    });\n                    var line_geometry = new THREE.Geometry();\n                    var start = Math.floor( Math.random() * 45);\n                    var end = Math.floor( Math.random() * 45);\n                    while(end == start){\n                        end = Math.floor( Math.random() * 45);\n                    }\n                    line_geometry.vertices.push(positions[start]);\n                    line_geometry.vertices.push(positions[end]);\n                    //line.geometry.vertices.push(new THREE.Vector3(-500, 20, 100));\n                    var line = new THREE.Line(line_geometry, line_material);\n                    scene.add(line);\n                };",
+			"camera",
+			"resendInvitation",
+			"createNew",
+			"emailNewUser",
+			"center",
+			"target",
+			"set",
+			"target",
+			"useractive",
+			"        \n",
+			"createNew",
+			"emailNewUser",
+			"\"message\"=>\"success\"",
+			"\"message\":\"success\"",
+			"{\"error\":false,\"message\":\"success\"}",
+			"success",
+			"requestEmailChange",
+			";\n",
+			"kfc",
+			"SSSS",
+			"updatingRules",
+			"}    ",
+			"account",
+			"port",
+			"5432",
+			"password"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"z",
+			"y",
+			"preHex",
+			"y"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/wenbog/cashvue/airgiftit/app/Http/routes.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								609,
+								609
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "UserController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/wenbog/cashvue/airgiftit/resources/views/airgiftit.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								699,
+								699
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 74.0
+	},
+	"pinned_build_system": "",
+	"project": "airgifitit.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"categoryservi",
+				"client/cashvuehtml5/app/es6api/CategoryService.js"
+			],
+			[
+				"csummary",
+				"client/cashvuehtml5/app/es6api/CategorySummary.js"
+			],
+			[
+				"cate",
+				"server/cashvue/Cashvue/Categories/CategoryValidator.php"
+			],
+			[
+				"category",
+				"client/cashvuehtml5/app/es6api/CategoryService.js"
+			],
+			[
+				"categorysummary",
+				"client/cashvuehtml5/app/es6api/CategorySummary.js"
+			],
+			[
+				"categoryte",
+				"client/cashvuehtml5/app/es6api/CategoryTree.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 297.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
