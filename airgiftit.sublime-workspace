@@ -572,6 +572,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/wenbog/cashvue/airgiftit"
+	],
 	"file_history":
 	[
 		"/Users/wenbog/cashvue/airgiftit/resources/views/airgiftit.blade.php",
@@ -705,7 +709,7 @@
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 25.0
 	},
 	"find_in_files":
 	{
@@ -907,7 +911,7 @@
 		"height": 74.0
 	},
 	"pinned_build_system": "",
-	"project": "airgifitit.sublime-project",
+	"project": "airgiftit.sublime-project",
 	"replace":
 	{
 		"height": 46.0
