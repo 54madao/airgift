@@ -19,4 +19,4 @@ Route::get('/privacy-policy', function () {
     return view('welcome');
 });
 
-Route::get('/login', 'UserController@login');
+Route::get('/handle_login', 'UserController@login');

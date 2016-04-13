@@ -13,8 +13,10 @@ class UserController extends Controller
      * @param  int  $id
      * @return Response
      */
-    public function login()
+    public function login(Request $request)
     {
+        echo $request;
+        var_dump($_REQUEST);
         // verify that the access token belongs to us
         $c = curl_init('https://api.amazon.com/auth/o2/tokeninfo?access_token=' . urlencode($_REQUEST['access_token']));
         curl_setopt($c, CURLOPT_RETURNTRANSFER, true);
