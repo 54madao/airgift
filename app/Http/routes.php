@@ -15,8 +15,12 @@ Route::get('/', function () {
     return view('airgiftit');
 });
 
+Route::get('/signin', function () {
+    return view('signin');
+});
+
 Route::get('/privacy-policy', function () {
     return view('welcome');
 });
 
-Route::get('/handle_login', 'UserController@login');
+Route::get('/login', 'UserController@login');
