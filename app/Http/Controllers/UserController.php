@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use App\User;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+use Illuminate\Http\Response;
 use Illuminate\Support\Facades\Log;
 
 class UserController extends Controller
@@ -43,5 +44,7 @@ class UserController extends Controller
         $d = json_decode($r);
 
         echo sprintf('%s %s %s', $d->name, $d->email, $d->user_id);
+    
+        return view('airgiftit', ['userInfo' => $d]);   
     }
 }

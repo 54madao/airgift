@@ -15,12 +15,19 @@ Route::get('/', function () {
     return view('airgiftit');
 });
 
-Route::get('/signin', function () {
-    return view('signin');
-});
 
-Route::get('/privacy-policy', function () {
-    return view('welcome');
-});
+// Route::get('/signin', function () {
+//     return view('signin');
+// });
 
-Route::get('/login', 'UserController@login');
+// Route::get('/privacy-policy', function () {
+//     return view('welcome');
+// });
+
+// Route::get('/login', 'UserController@login');
+
+Route::get('/itemlookup', 'ItemController@itemLookup');
+
+Route::post('/getDetails','TransactionController@getDetails');
+
+Route::get('/authorizeAndCapture','TransactionController@authorizeAndCapture');
